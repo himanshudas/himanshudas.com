@@ -1,0 +1,35 @@
+baseURL = "https://himanshudas.com/"
+languageCode = "en-us"
+title = "Himanshu Das"
+newContentEditor = "nano"
+pygmentsStyle = "native"
+theme = "hugo-goa"
+
+
+enableRobotsTXT = true
+
+## Site Settings
+[params]
+author = "Himanshu Das"
+intro = "Security Researcher"
+authorimage = "headshot.jpg"
+
+
+[params.meta]
+description = "Himanshu Das, security, security engineer, infrasec, payments"
+keywords = "security,researcher,infrastructure, payments"
+
+
+## Social Accounts
+[params.social]
+github = "himanshudas"
+linkedin = "himanshukumardas"
+twitter = "mehimansu"
+email = "me.himansu@gmail.com"
+
+
+## Extras
+[params.extra]
+copyright = "© 2017. Himanshu Das. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)." 
+poweredby = true
+highlightjs = true
